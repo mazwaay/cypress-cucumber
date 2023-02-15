@@ -24,5 +24,8 @@
     "cypress": "^12.5.1",
     "esbuild": "^0.16.4",
     "multiple-cucumber-html-reporter": "^3.0.1"
+  },
+  "dependencies": {
+    "loadsh": "^0.0.4"
   }
 }
